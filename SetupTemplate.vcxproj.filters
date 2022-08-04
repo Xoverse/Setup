@@ -41,12 +41,14 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="Resources\music.mp3" />
     <Media Include="Resources\music.wav">
       <Filter>Fichiers de ressources</Filter>
     </Media>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\app.zip" />
+    <None Include="Resources\app.zip">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="README.MD" />
   </ItemGroup>
 </Project>

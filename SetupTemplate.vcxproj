@@ -154,10 +154,10 @@
     <Image Include="Resources\Xoverse logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Media Include="Resources\music.mp3" />
     <Media Include="Resources\music.wav" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.MD" />
     <None Include="Resources\app.zip" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
