@@ -21,5 +21,5 @@ Une fois copié, il est décompressé dans le dossier choisi.
     ```
 5. Compilez avec le `build.bat`, msbuild ou Visual Studio (outils v142/2019)
 ## Preview
-[Build du template](https://github.com/Xoverse/Setup/releases/latest)
+[Build du template](https://github.com/Xoverse/Setup/releases/latest)<br>
 ![preview image](https://i.imgur.com/NJJnEDw.png)
