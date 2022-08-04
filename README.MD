@@ -1,11 +1,15 @@
 # Template de setup Xoverse
 Ceci est un template de setup basique.
-## Comment �a marche ?
-Un fichier ZIP est compress� dans l'application.
+## Informations sur l'utilisation
+Nous distribuons gratuitement le logiciel en plus de l'entièreté du code source.
+Nous ne prévoyons pas de le rendre payant, donc nous n'avons aucune rentrée d'argent, donc aucun moyen pour nous mettre en avant.
+Si vous utilisez ce template, merci de créditer la __Xoverse__. Nous l'apprécierons grandement !
+## Comment ça marche ?
+Un fichier ZIP est compressé dans l'application.
 
-Lors de l'installation, ce fichier ZIP est copi� dans le dossier temporaire de l'utilisateur.
+Lors de l'installation, ce fichier ZIP est copié dans le dossier temporaire de l'utilisateur.
 
-Une fois copi�, il est d�compress� dans le dossier choisi.
+Une fois copié, il est décompressé dans le dossier choisi.
 ## L'utiliser pour son application
 1. Compresser son application en .ZIP (avec WinRar, 7-zip, etc...)
 2. Replacer le `app.zip` avec le votre (le nom est important)
